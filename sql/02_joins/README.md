@@ -145,14 +145,14 @@ In distributed engines, the shuffle for hash joins is often the bottleneck. Redu
 
 | # | Problem | Key Concept | Difficulty |
 |---|---|---|---|
-| 175 | Combine Two Tables | LEFT JOIN basics | Easy |
-| 181 | Employees Earning More | Self-join | Easy |
-| 183 | Customers Who Never Order | Anti-join (LEFT JOIN + IS NULL) | Easy |
-| 196 | Delete Duplicate Emails | DELETE with subquery | Easy |
-| 262 | Trips and Users | Double join + conditional aggregation | Hard |
-| 570 | Managers with 5 Reports | Self-join + GROUP BY + HAVING | Medium |
-| 580 | Count Students per Dept | LEFT JOIN + COUNT(column) | Medium |
-| 602 | Friend Requests - Most Friends | UNION ALL + GROUP BY | Medium |
+| [175](https://leetcode.com/problems/combine-two-tables/) | Combine Two Tables | LEFT JOIN basics | Easy |
+| [181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Employees Earning More | Self-join | Easy |
+| [183](https://leetcode.com/problems/customers-who-never-order/) | Customers Who Never Order | Anti-join (LEFT JOIN + IS NULL) | Easy |
+| [196](https://leetcode.com/problems/delete-duplicate-emails/) | Delete Duplicate Emails | DELETE with subquery | Easy |
+| [262](https://leetcode.com/problems/trips-and-users/) | Trips and Users | Double join + conditional aggregation | Hard |
+| [570](https://leetcode.com/problems/managers-with-at-least-five-direct-reports/) | Managers with 5 Reports | Self-join + GROUP BY + HAVING | Medium |
+| [580](https://leetcode.com/problems/count-student-number-in-departments/) | Count Students per Dept | LEFT JOIN + COUNT(column) | Medium |
+| [602](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Friend Requests - Most Friends | UNION ALL + GROUP BY | Medium |
 
 ## DE Scenarios
 

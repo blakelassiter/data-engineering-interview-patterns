@@ -1,5 +1,7 @@
 # Maximum Frequency Stack (LeetCode #895)
 
+🔗 [LeetCode 895: Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

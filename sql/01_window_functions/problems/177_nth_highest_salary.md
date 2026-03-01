@@ -1,5 +1,7 @@
 # Nth Highest Salary (LeetCode #177)
 
+🔗 [LeetCode 177: Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Common
 
 ## Problem Statement

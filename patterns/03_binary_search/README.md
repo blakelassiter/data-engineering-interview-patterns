@@ -241,7 +241,7 @@ Binary search eliminates half the data with each comparison. The number of compa
 | n | Comparisons | Time at 100ns/comparison |
 |---|---|---|
 | 1K | 10 | 1 microsecond |
-| 1M | 20 | 2 microseconds |
+| 1M | [20](https://leetcode.com/problems/valid-parentheses/) | 2 microseconds |
 | 1B | 30 | 3 microseconds |
 | 1T | 40 | 4 microseconds |
 
@@ -259,14 +259,14 @@ Binary search maps to index lookups in SQL. A `WHERE id = 42` on an indexed colu
 
 | # | Problem | Difficulty | Key Concept |
 |---|---------|------------|-------------|
-| 704 | [Binary Search](problems/704_binary_search.md) | Easy | Exact match (foundation) |
-| 35 | [Search Insert Position](problems/035_search_insert.md) | Easy | Left boundary / insertion point |
-| 74 | [Search a 2D Matrix](problems/074_search_2d_matrix.md) | Medium | Treat 2D as sorted 1D |
-| 153 | [Find Min in Rotated Sorted Array](problems/153_find_min_rotated.md) | Medium | Modified binary search |
-| 33 | [Search in Rotated Sorted Array](problems/033_search_rotated.md) | Medium | Determine sorted half |
-| 162 | [Find Peak Element](problems/162_find_peak.md) | Medium | Binary search on unsorted data |
-| 875 | [Koko Eating Bananas](problems/875_koko_bananas.md) | Medium | Binary search on answer |
-| 981 | [Time Based Key-Value Store](problems/981_time_map.md) | Medium | Binary search in design |
+| [704](https://leetcode.com/problems/binary-search/) | [Binary Search](problems/704_binary_search.md) | Easy | Exact match (foundation) |
+| [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](problems/035_search_insert.md) | Easy | Left boundary / insertion point |
+| [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](problems/074_search_2d_matrix.md) | Medium | Treat 2D as sorted 1D |
+| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Min in Rotated Sorted Array](problems/153_find_min_rotated.md) | Medium | Modified binary search |
+| [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](problems/033_search_rotated.md) | Medium | Determine sorted half |
+| [162](https://leetcode.com/problems/find-peak-element/) | [Find Peak Element](problems/162_find_peak.md) | Medium | Binary search on unsorted data |
+| [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875_koko_bananas.md) | Medium | Binary search on answer |
+| [981](https://leetcode.com/problems/time-based-key-value-store/) | [Time Based Key-Value Store](problems/981_time_map.md) | Medium | Binary search in design |
 
 **Suggested order:** 704, 35 → 74 → 153, 33 → 162 → 875 → 981
 

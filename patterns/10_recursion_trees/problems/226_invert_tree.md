@@ -1,5 +1,7 @@
 # Invert Binary Tree (LeetCode #226)
 
+🔗 [LeetCode 226: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Binary Search (LeetCode #704)
 
+🔗 [LeetCode 704: Binary Search](https://leetcode.com/problems/binary-search/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Delete Duplicate Emails (LeetCode #196)
 
+🔗 [LeetCode 196: Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Common
 
 ## Problem Statement

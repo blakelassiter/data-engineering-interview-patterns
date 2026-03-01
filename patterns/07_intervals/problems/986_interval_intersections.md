@@ -1,5 +1,7 @@
 # Interval List Intersections (LeetCode #986)
 
+🔗 [LeetCode 986: Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

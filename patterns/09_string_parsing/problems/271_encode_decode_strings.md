@@ -1,5 +1,7 @@
 # Encode and Decode Strings (LeetCode #271)
 
+🔗 [LeetCode 271: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

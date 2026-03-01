@@ -1,5 +1,7 @@
 # Find Minimum in Rotated Sorted Array (LeetCode #153)
 
+🔗 [LeetCode 153: Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

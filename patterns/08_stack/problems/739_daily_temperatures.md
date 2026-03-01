@@ -1,5 +1,7 @@
 # Daily Temperatures (LeetCode #739)
 
+🔗 [LeetCode 739: Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Common
 
 ## Problem Statement

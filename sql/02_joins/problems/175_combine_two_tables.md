@@ -1,5 +1,7 @@
 # Combine Two Tables (LeetCode #175)
 
+🔗 [LeetCode 175: Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

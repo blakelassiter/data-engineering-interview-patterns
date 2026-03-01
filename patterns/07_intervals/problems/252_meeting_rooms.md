@@ -1,5 +1,7 @@
 # Meeting Rooms (LeetCode #252)
 
+🔗 [LeetCode 252: Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 *This is a LeetCode Premium problem. The problem description below is written in our own words. If you have LeetCode Premium, the original is at https://leetcode.com/problems/meeting-rooms/.*

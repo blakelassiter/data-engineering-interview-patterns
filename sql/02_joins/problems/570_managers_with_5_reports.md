@@ -1,5 +1,7 @@
 # Managers with at Least 5 Direct Reports (LeetCode #570)
 
+🔗 [LeetCode 570: Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-five-direct-reports/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Common
 
 ## Problem Statement

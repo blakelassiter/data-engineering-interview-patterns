@@ -1,5 +1,7 @@
 # Longest Repeating Character Replacement (LeetCode #424)
 
+🔗 [LeetCode 424: Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

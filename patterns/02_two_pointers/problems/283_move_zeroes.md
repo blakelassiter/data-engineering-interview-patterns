@@ -1,5 +1,7 @@
 # Move Zeroes (LeetCode #283)
 
+🔗 [LeetCode 283: Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 ## Problem Statement

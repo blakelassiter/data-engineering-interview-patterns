@@ -1,5 +1,7 @@
 # Find Cumulative Salary of an Employee (LeetCode #579)
 
+🔗 [LeetCode 579: Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

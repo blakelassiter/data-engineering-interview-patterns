@@ -178,10 +178,10 @@ String parsing in SQL uses functions like SPLIT, REGEXP_EXTRACT, SUBSTR, TRIM, J
 
 | # | Problem | Difficulty | Key Concept |
 |---|---|---|---|
-| 271 | [Encode and Decode Strings](problems/271_encode_decode_strings.md) | Medium | Length-prefix serialization |
-| 394 | [Decode String](problems/394_decode_string.md) | Medium | Stack-based nested expansion |
-| 722 | [Remove Comments](problems/722_remove_comments.md) | Medium | State machine parsing |
-| 468 | [Validate IP Address](problems/468_validate_ip_address.md) | Medium | Structured validation |
+| [271](https://leetcode.com/problems/encode-and-decode-strings/) | [Encode and Decode Strings](problems/271_encode_decode_strings.md) | Medium | Length-prefix serialization |
+| [394](https://leetcode.com/problems/decode-string/) | [Decode String](problems/394_decode_string.md) | Medium | Stack-based nested expansion |
+| [722](https://leetcode.com/problems/remove-comments/) | [Remove Comments](problems/722_remove_comments.md) | Medium | State machine parsing |
+| [468](https://leetcode.com/problems/validate-ip-address/) | [Validate IP Address](problems/468_validate_ip_address.md) | Medium | Structured validation |
 
 ## DE Scenarios
 

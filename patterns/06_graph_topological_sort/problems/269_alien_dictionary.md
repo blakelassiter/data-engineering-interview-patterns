@@ -1,5 +1,7 @@
 # Alien Dictionary (LeetCode #269)
 
+🔗 [LeetCode 269: Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 *This is a LeetCode Premium problem. The problem description below is written in our own words. If you have LeetCode Premium, the original is at https://leetcode.com/problems/alien-dictionary/.*

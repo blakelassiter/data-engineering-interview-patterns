@@ -118,15 +118,15 @@ Window functions bridge SQL and algorithmic thinking:
 
 | # | Problem | Key Concept | Difficulty |
 |---|---|---|---|
-| 176 | Second Highest Salary | DENSE_RANK, NULL handling | Easy |
-| 177 | Nth Highest Salary | Parameterized DENSE_RANK | Medium |
-| 178 | Rank Scores | DENSE_RANK basics | Easy |
-| 180 | Consecutive Numbers | LAG for adjacency | Medium |
-| 184 | Department Highest Salary | PARTITION BY | Medium |
-| 185 | Department Top Three Salaries | DENSE_RANK + PARTITION BY | Hard |
-| 197 | Rising Temperature | LAG + date validation | Easy |
-| 550 | Game Play Analysis IV | Anchor date + retention | Medium |
-| 601 | Human Traffic of Stadium | Island technique | Hard |
+| [176](https://leetcode.com/problems/second-highest-salary/) | Second Highest Salary | DENSE_RANK, NULL handling | Easy |
+| [177](https://leetcode.com/problems/nth-highest-salary/) | Nth Highest Salary | Parameterized DENSE_RANK | Medium |
+| [178](https://leetcode.com/problems/rank-scores/) | Rank Scores | DENSE_RANK basics | Easy |
+| [180](https://leetcode.com/problems/consecutive-numbers/) | Consecutive Numbers | LAG for adjacency | Medium |
+| [184](https://leetcode.com/problems/department-highest-salary/) | Department Highest Salary | PARTITION BY | Medium |
+| [185](https://leetcode.com/problems/department-top-three-salaries/) | Department Top Three Salaries | DENSE_RANK + PARTITION BY | Hard |
+| [197](https://leetcode.com/problems/rising-temperature/) | Rising Temperature | LAG + date validation | Easy |
+| [550](https://leetcode.com/problems/game-play-analysis-iv/) | Game Play Analysis IV | Anchor date + retention | Medium |
+| [601](https://leetcode.com/problems/human-traffic-of-stadium/) | Human Traffic of Stadium | Island technique | Hard |
 
 ## DE Scenarios
 

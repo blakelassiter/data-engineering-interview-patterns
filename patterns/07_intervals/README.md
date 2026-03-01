@@ -254,12 +254,12 @@ Interval operations in SQL use window functions and self-joins. Merging overlapp
 
 | # | Problem | Difficulty | Key Concept |
 |---|---------|------------|-------------|
-| 252 | [Meeting Rooms](problems/252_meeting_rooms.md) | Easy | Overlap detection |
-| 56 | [Merge Intervals](problems/056_merge_intervals.md) | Medium | Sort + merge scan |
-| 253 | [Meeting Rooms II](problems/253_meeting_rooms_ii.md) | Medium | Min-heap for concurrent count |
-| 57 | [Insert Interval](problems/057_insert_interval.md) | Medium | Binary search + merge |
-| 435 | [Non-overlapping Intervals](problems/435_non_overlapping.md) | Medium | Greedy scheduling |
-| 986 | [Interval List Intersections](problems/986_interval_intersections.md) | Medium | Two-pointer intersection |
+| [252](https://leetcode.com/problems/meeting-rooms/) | [Meeting Rooms](problems/252_meeting_rooms.md) | Easy | Overlap detection |
+| [56](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](problems/056_merge_intervals.md) | Medium | Sort + merge scan |
+| [253](https://leetcode.com/problems/meeting-rooms-ii/) | [Meeting Rooms II](problems/253_meeting_rooms_ii.md) | Medium | Min-heap for concurrent count |
+| [57](https://leetcode.com/problems/insert-interval/) | [Insert Interval](problems/057_insert_interval.md) | Medium | Binary search + merge |
+| [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](problems/435_non_overlapping.md) | Medium | Greedy scheduling |
+| [986](https://leetcode.com/problems/interval-list-intersections/) | [Interval List Intersections](problems/986_interval_intersections.md) | Medium | Two-pointer intersection |
 
 **Suggested order:** 252 → 56 → 253 → 57 → 435 → 986
 

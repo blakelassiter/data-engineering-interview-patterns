@@ -1,5 +1,7 @@
 # Network Delay Time (LeetCode #743)
 
+🔗 [LeetCode 743: Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

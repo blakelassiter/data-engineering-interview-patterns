@@ -1,5 +1,7 @@
 # Number of Provinces (LeetCode #547)
 
+🔗 [LeetCode 547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

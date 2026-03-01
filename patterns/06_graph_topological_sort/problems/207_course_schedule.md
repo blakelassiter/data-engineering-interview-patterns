@@ -1,5 +1,7 @@
 # Course Schedule (LeetCode #207)
 
+🔗 [LeetCode 207: Course Schedule](https://leetcode.com/problems/course-schedule/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

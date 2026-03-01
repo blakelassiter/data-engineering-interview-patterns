@@ -210,11 +210,11 @@ When the hash table exceeds available memory, engines switch to sort-based aggre
 
 | # | Problem | Key Concept | Difficulty |
 |---|---|---|---|
-| 182 | Duplicate Emails | GROUP BY + HAVING COUNT > 1 | Easy |
-| 511 | Game Play Analysis I | GROUP BY + MIN | Easy |
-| 574 | Winning Candidate | JOIN + GROUP BY + ORDER BY + LIMIT | Medium |
-| 585 | Investments in 2016 | Subquery with GROUP BY + HAVING for set membership | Medium |
-| 615 | Average Salary: Depts vs Company | Multi-level aggregation with CTE + CASE | Hard |
+| [182](https://leetcode.com/problems/duplicate-emails/) | Duplicate Emails | GROUP BY + HAVING COUNT > 1 | Easy |
+| [511](https://leetcode.com/problems/game-play-analysis-i/) | Game Play Analysis I | GROUP BY + MIN | Easy |
+| [574](https://leetcode.com/problems/winning-candidate/) | Winning Candidate | JOIN + GROUP BY + ORDER BY + LIMIT | Medium |
+| [585](https://leetcode.com/problems/investments-in-2016/) | Investments in 2016 | Subquery with GROUP BY + HAVING for set membership | Medium |
+| [615](https://leetcode.com/problems/average-salary-departments-vs-company/) | Average Salary: Depts vs Company | Multi-level aggregation with CTE + CASE | Hard |
 
 ## DE Scenarios
 

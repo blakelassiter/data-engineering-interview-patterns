@@ -1,5 +1,7 @@
 # Top K Frequent Elements (LeetCode #347)
 
+🔗 [LeetCode 347: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

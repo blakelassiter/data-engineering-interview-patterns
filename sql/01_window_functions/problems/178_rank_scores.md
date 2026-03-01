@@ -1,5 +1,7 @@
 # Rank Scores (LeetCode #178)
 
+🔗 [LeetCode 178: Rank Scores](https://leetcode.com/problems/rank-scores/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

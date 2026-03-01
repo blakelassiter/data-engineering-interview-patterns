@@ -1,5 +1,7 @@
 # Duplicate Emails (LeetCode #182)
 
+🔗 [LeetCode 182: Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

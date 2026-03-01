@@ -386,13 +386,13 @@ Graph traversal maps to recursive CTEs in SQL. `WITH RECURSIVE` iterates through
 
 | # | Problem | Difficulty | Key Concept |
 |---|---------|------------|-------------|
-| 200 | [Number of Islands](problems/200_number_of_islands.md) | Medium | BFS/DFS on a grid |
-| 547 | [Number of Provinces](problems/547_number_of_provinces.md) | Medium | Connected components |
-| 133 | [Clone Graph](problems/133_clone_graph.md) | Medium | BFS/DFS with reconstruction |
-| 207 | [Course Schedule](problems/207_course_schedule.md) | Medium | Cycle detection |
-| 210 | [Course Schedule II](problems/210_course_schedule_ii.md) | Medium | Topological sort |
-| 269 | [Alien Dictionary](problems/269_alien_dictionary.md) | Hard | Topo sort from constraints |
-| 743 | [Network Delay Time](problems/743_network_delay_time.md) | Medium | Dijkstra's shortest path |
+| [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200_number_of_islands.md) | Medium | BFS/DFS on a grid |
+| [547](https://leetcode.com/problems/number-of-provinces/) | [Number of Provinces](problems/547_number_of_provinces.md) | Medium | Connected components |
+| [133](https://leetcode.com/problems/clone-graph/) | [Clone Graph](problems/133_clone_graph.md) | Medium | BFS/DFS with reconstruction |
+| [207](https://leetcode.com/problems/course-schedule/) | [Course Schedule](problems/207_course_schedule.md) | Medium | Cycle detection |
+| [210](https://leetcode.com/problems/course-schedule-ii/) | [Course Schedule II](problems/210_course_schedule_ii.md) | Medium | Topological sort |
+| [269](https://leetcode.com/problems/alien-dictionary/) | [Alien Dictionary](problems/269_alien_dictionary.md) | Hard | Topo sort from constraints |
+| [743](https://leetcode.com/problems/network-delay-time/) | [Network Delay Time](problems/743_network_delay_time.md) | Medium | Dijkstra's shortest path |
 
 **Suggested order:** 200, 547 → 133 → 207, 210 → 743 → 269
 

@@ -1,5 +1,7 @@
 # Students Report By Geography (LeetCode #618)
 
+🔗 [LeetCode 618: Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

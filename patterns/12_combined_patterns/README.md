@@ -138,10 +138,10 @@ The SQL section's optimization subsection covers the SQL equivalents of these co
 
 | # | Problem | Difficulty | Patterns Combined |
 |---|---|---|---|
-| 621 | [Task Scheduler](problems/621_task_scheduler.md) | Medium | Hash Map + Heap + Greedy |
-| 787 | [Cheapest Flights](problems/787_cheapest_flights.md) | Medium | Graph + Modified BFS |
-| 895 | [Max Frequency Stack](problems/895_max_freq_stack.md) | Hard | Hash Map + Stack |
-| 692 | [Top K Frequent Words](problems/692_top_k_words.md) | Medium | Hash Map + Heap (custom comparator) |
+| [621](https://leetcode.com/problems/task-scheduler/) | [Task Scheduler](problems/621_task_scheduler.md) | Medium | Hash Map + Heap + Greedy |
+| [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Cheapest Flights](problems/787_cheapest_flights.md) | Medium | Graph + Modified BFS |
+| [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Max Frequency Stack](problems/895_max_freq_stack.md) | Hard | Hash Map + Stack |
+| [692](https://leetcode.com/problems/top-k-frequent-words/) | [Top K Frequent Words](problems/692_top_k_words.md) | Medium | Hash Map + Heap (custom comparator) |
 
 ## DE Scenarios
 

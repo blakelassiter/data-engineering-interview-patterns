@@ -273,16 +273,16 @@ The hash map pattern maps directly to hash joins in SQL engines. When you write 
 
 | # | Problem | Difficulty | Key Concept |
 |---|---------|------------|-------------|
-| 1 | [Two Sum](problems/001_two_sum.md) | Easy | Complement lookup |
-| 217 | [Contains Duplicate](problems/217_contains_duplicate.md) | Easy | Existence check with set |
-| 242 | [Valid Anagram](problems/242_valid_anagram.md) | Easy | Frequency counting |
-| 49 | [Group Anagrams](problems/049_group_anagrams.md) | Medium | Grouping by computed key |
-| 347 | [Top K Frequent Elements](problems/347_top_k_frequent.md) | Medium | Counting + selection |
-| 128 | [Longest Consecutive Sequence](problems/128_longest_consecutive.md) | Medium | Set for O(1) neighbor check |
-| 560 | [Subarray Sum Equals K](problems/560_subarray_sum_k.md) | Medium | Prefix sum + hash map |
-| 146 | [LRU Cache](problems/146_lru_cache.md) | Medium | Hash map + doubly linked list |
-| 380 | [Insert Delete GetRandom O(1)](problems/380_insert_delete_random.md) | Medium | Hash map + array |
-| 355 | [Design Twitter](problems/355_design_twitter.md) | Medium | Multiple hash maps + merge |
+| [1](https://leetcode.com/problems/two-sum/) | [Two Sum](problems/001_two_sum.md) | Easy | Complement lookup |
+| [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](problems/217_contains_duplicate.md) | Easy | Existence check with set |
+| [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](problems/242_valid_anagram.md) | Easy | Frequency counting |
+| [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](problems/049_group_anagrams.md) | Medium | Grouping by computed key |
+| [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](problems/347_top_k_frequent.md) | Medium | Counting + selection |
+| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest Consecutive Sequence](problems/128_longest_consecutive.md) | Medium | Set for O(1) neighbor check |
+| [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](problems/560_subarray_sum_k.md) | Medium | Prefix sum + hash map |
+| [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache](problems/146_lru_cache.md) | Medium | Hash map + doubly linked list |
+| [380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Insert Delete GetRandom O(1)](problems/380_insert_delete_random.md) | Medium | Hash map + array |
+| [355](https://leetcode.com/problems/design-twitter/) | [Design Twitter](problems/355_design_twitter.md) | Medium | Multiple hash maps + merge |
 
 **Suggested order:** 1, 217 → 242 → 49 → 347, 128 → 560 → 146, 380 → 355
 

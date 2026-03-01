@@ -1,5 +1,7 @@
 # Serialize and Deserialize Binary Tree (LeetCode #297)
 
+🔗 [LeetCode 297: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Common
 
 ## Problem Statement

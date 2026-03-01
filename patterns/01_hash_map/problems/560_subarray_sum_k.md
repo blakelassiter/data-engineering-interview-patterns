@@ -1,5 +1,7 @@
 # Subarray Sum Equals K (LeetCode #560)
 
+🔗 [LeetCode 560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Common
 
 ## Problem Statement

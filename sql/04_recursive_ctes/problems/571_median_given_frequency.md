@@ -1,5 +1,7 @@
 # Find Median Given Frequency of Numbers (LeetCode #571)
 
+🔗 [LeetCode 571: Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

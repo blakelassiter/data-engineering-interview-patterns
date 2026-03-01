@@ -1,5 +1,7 @@
 # Contains Duplicate (LeetCode #217)
 
+🔗 [LeetCode 217: Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # LRU Cache (LeetCode #146)
 
+🔗 [LeetCode 146: LRU Cache](https://leetcode.com/problems/lru-cache/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

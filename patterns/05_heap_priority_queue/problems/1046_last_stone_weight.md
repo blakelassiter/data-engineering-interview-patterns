@@ -1,5 +1,7 @@
 # Last Stone Weight (LeetCode #1046)
 
+🔗 [LeetCode 1046: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Friend Requests II - Who Has the Most Friends (LeetCode #602)
 
+🔗 [LeetCode 602: Friend Requests II - Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

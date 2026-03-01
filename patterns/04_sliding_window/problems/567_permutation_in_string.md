@@ -1,5 +1,7 @@
 # Permutation in String (LeetCode #567)
 
+🔗 [LeetCode 567: Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

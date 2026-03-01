@@ -1,5 +1,7 @@
 # Two Sum II - Input Array Is Sorted (LeetCode #167)
 
+🔗 [LeetCode 167: Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

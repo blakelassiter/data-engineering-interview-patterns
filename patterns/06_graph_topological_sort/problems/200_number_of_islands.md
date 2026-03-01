@@ -1,5 +1,7 @@
 # Number of Islands (LeetCode #200)
 
+🔗 [LeetCode 200: Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

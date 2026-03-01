@@ -1,5 +1,7 @@
 # Count Student Number in Departments (LeetCode #580)
 
+🔗 [LeetCode 580: Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 ## Problem Statement

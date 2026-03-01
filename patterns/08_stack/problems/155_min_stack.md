@@ -1,5 +1,7 @@
 # Min Stack (LeetCode #155)
 
+🔗 [LeetCode 155: Min Stack](https://leetcode.com/problems/min-stack/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

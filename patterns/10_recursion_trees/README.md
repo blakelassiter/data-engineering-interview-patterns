@@ -176,11 +176,11 @@ Tree operations in SQL use recursive CTEs. `WITH RECURSIVE cte AS (SELECT root U
 
 | # | Problem | Difficulty | Key Concept |
 |---|---|---|---|
-| 104 | [Maximum Depth](problems/104_max_depth.md) | Easy | Base case + recursive combine |
-| 226 | [Invert Binary Tree](problems/226_invert_tree.md) | Easy | Recursive transformation |
-| 572 | [Subtree of Another Tree](problems/572_subtree.md) | Easy | Tree comparison with DFS |
-| 236 | [Lowest Common Ancestor](problems/236_lca.md) | Medium | Path finding in trees |
-| 297 | [Serialize/Deserialize](problems/297_serialize_deserialize.md) | Hard | Tree <-> string conversion |
+| [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth](problems/104_max_depth.md) | Easy | Base case + recursive combine |
+| [226](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](problems/226_invert_tree.md) | Easy | Recursive transformation |
+| [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](problems/572_subtree.md) | Easy | Tree comparison with DFS |
+| [236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Lowest Common Ancestor](problems/236_lca.md) | Medium | Path finding in trees |
+| [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize/Deserialize](problems/297_serialize_deserialize.md) | Hard | Tree <-> string conversion |
 
 ## DE Scenarios
 

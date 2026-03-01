@@ -249,15 +249,15 @@ Two-pointer algorithms correspond to sort-merge operations in SQL. When you writ
 
 | # | Problem | Difficulty | Key Concept |
 |---|---------|------------|-------------|
-| 26 | [Remove Duplicates from Sorted Array](problems/026_remove_duplicates.md) | Easy | Read/write pointers |
-| 88 | [Merge Sorted Array](problems/088_merge_sorted.md) | Easy | Merge two sequences |
-| 283 | [Move Zeroes](problems/283_move_zeroes.md) | Easy | Partition (same direction) |
-| 167 | [Two Sum II (Sorted)](problems/167_two_sum_ii.md) | Medium | Opposite ends |
-| 15 | [3Sum](problems/015_three_sum.md) | Medium | Sort + opposite ends |
-| 11 | [Container With Most Water](problems/011_container_water.md) | Medium | Opposite ends (greedy) |
-| 75 | [Sort Colors](problems/075_sort_colors.md) | Medium | Dutch National Flag (three pointers) |
-| 977 | [Squares of a Sorted Array](problems/977_squares_sorted.md) | Easy | Opposite ends (transform) |
-| 42 | [Trapping Rain Water](problems/042_trapping_rain_water.md) | Hard | Opposite ends or prefix max |
+| [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](problems/026_remove_duplicates.md) | Easy | Read/write pointers |
+| [88](https://leetcode.com/problems/merge-sorted-array/) | [Merge Sorted Array](problems/088_merge_sorted.md) | Easy | Merge two sequences |
+| [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](problems/283_move_zeroes.md) | Easy | Partition (same direction) |
+| [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II (Sorted)](problems/167_two_sum_ii.md) | Medium | Opposite ends |
+| [15](https://leetcode.com/problems/3sum/) | [3Sum](problems/015_three_sum.md) | Medium | Sort + opposite ends |
+| [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](problems/011_container_water.md) | Medium | Opposite ends (greedy) |
+| [75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](problems/075_sort_colors.md) | Medium | Dutch National Flag (three pointers) |
+| [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](problems/977_squares_sorted.md) | Easy | Opposite ends (transform) |
+| [42](https://leetcode.com/problems/trapping-rain-water/) | [Trapping Rain Water](problems/042_trapping_rain_water.md) | Hard | Opposite ends or prefix max |
 
 **Suggested order:** Start with 26, 88 (basics) → 283, 977 (variations) → 167, 11 (opposite ends) → 15, 75 (medium) → 42 (hard)
 

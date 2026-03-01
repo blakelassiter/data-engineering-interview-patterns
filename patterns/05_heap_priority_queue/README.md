@@ -274,12 +274,12 @@ The streaming property is the heap's killer feature at scale. A heap of size k c
 
 | # | Problem | Difficulty | Key Concept |
 |---|---------|------------|-------------|
-| 703 | [Kth Largest Element in a Stream](problems/703_kth_largest_stream.md) | Easy | Min-heap of size K |
-| 1046 | [Last Stone Weight](problems/1046_last_stone_weight.md) | Easy | Max-heap (negate values) |
-| 215 | [Kth Largest Element in an Array](problems/215_kth_largest_array.md) | Medium | Selection problem, heap vs quickselect |
-| 767 | [Reorganize String](problems/767_reorganize_string.md) | Medium | Greedy + max-heap |
-| 23 | [Merge K Sorted Lists](problems/023_merge_k_sorted.md) | Hard | K-way merge |
-| 295 | [Find Median from Data Stream](problems/295_find_median_stream.md) | Hard | Two-heap technique |
+| [703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Kth Largest Element in a Stream](problems/703_kth_largest_stream.md) | Easy | Min-heap of size K |
+| [1046](https://leetcode.com/problems/last-stone-weight/) | [Last Stone Weight](problems/1046_last_stone_weight.md) | Easy | Max-heap (negate values) |
+| [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Kth Largest Element in an Array](problems/215_kth_largest_array.md) | Medium | Selection problem, heap vs quickselect |
+| [767](https://leetcode.com/problems/reorganize-string/) | [Reorganize String](problems/767_reorganize_string.md) | Medium | Greedy + max-heap |
+| [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge K Sorted Lists](problems/023_merge_k_sorted.md) | Hard | K-way merge |
+| [295](https://leetcode.com/problems/find-median-from-data-stream/) | [Find Median from Data Stream](problems/295_find_median_stream.md) | Hard | Two-heap technique |
 
 **Suggested order:** 703, 1046 → 215 → 767 → 23 → 295
 

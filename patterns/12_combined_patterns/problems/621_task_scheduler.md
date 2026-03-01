@@ -1,5 +1,7 @@
 # Task Scheduler (LeetCode #621)
 
+🔗 [LeetCode 621: Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Validate IP Address (LeetCode #468)
 
+🔗 [LeetCode 468: Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

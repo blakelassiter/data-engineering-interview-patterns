@@ -1,5 +1,7 @@
 # Human Traffic of Stadium (LeetCode #601)
 
+🔗 [LeetCode 601: Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Common
 
 ## Problem Statement

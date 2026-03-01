@@ -1,5 +1,7 @@
 # Valid Parentheses (LeetCode #20)
 
+🔗 [LeetCode 20: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

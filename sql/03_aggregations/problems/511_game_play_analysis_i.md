@@ -1,5 +1,7 @@
 # Game Play Analysis I (LeetCode #511)
 
+🔗 [LeetCode 511: Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 ## Problem Statement

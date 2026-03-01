@@ -1,5 +1,7 @@
 # 3Sum (LeetCode #15)
 
+🔗 [LeetCode 15: 3Sum](https://leetcode.com/problems/3sum/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Common
 
 ## Problem Statement

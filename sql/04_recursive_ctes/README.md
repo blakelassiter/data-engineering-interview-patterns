@@ -192,10 +192,10 @@ while current_level.count() > 0:
 
 | # | Problem | Key Concept | Difficulty |
 |---|---|---|---|
-| 569 | Median Employee Salary | ROW_NUMBER + COUNT for positional median | Hard |
-| 571 | Find Median Given Frequency | Cumulative frequency for median position | Hard |
-| 579 | Cumulative Salary | ROWS BETWEEN frame + ROW_NUMBER exclusion | Hard |
-| 618 | Students Report By Geography | ROW_NUMBER alignment + manual pivot | Hard |
+| [569](https://leetcode.com/problems/median-employee-salary/) | Median Employee Salary | ROW_NUMBER + COUNT for positional median | Hard |
+| [571](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | Find Median Given Frequency | Cumulative frequency for median position | Hard |
+| [579](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Cumulative Salary | ROWS BETWEEN frame + ROW_NUMBER exclusion | Hard |
+| [618](https://leetcode.com/problems/students-report-by-geography/) | Students Report By Geography | ROW_NUMBER alignment + manual pivot | Hard |
 
 ## DE Scenarios
 

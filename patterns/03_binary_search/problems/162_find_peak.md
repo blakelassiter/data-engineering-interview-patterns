@@ -1,5 +1,7 @@
 # Find Peak Element (LeetCode #162)
 
+🔗 [LeetCode 162: Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

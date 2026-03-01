@@ -1,5 +1,7 @@
 # Maximum Depth of Binary Tree (LeetCode #104)
 
+🔗 [LeetCode 104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

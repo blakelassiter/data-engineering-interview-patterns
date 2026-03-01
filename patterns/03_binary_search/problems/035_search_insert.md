@@ -1,5 +1,7 @@
 # Search Insert Position (LeetCode #35)
 
+🔗 [LeetCode 35: Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Largest Rectangle in Histogram (LeetCode #84)
 
+🔗 [LeetCode 84: Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

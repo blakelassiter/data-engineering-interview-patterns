@@ -1,5 +1,7 @@
 # Average Salary: Departments vs Company (LeetCode #615)
 
+🔗 [LeetCode 615: Average Salary: Departments vs Company](https://leetcode.com/problems/average-salary-departments-vs-company/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

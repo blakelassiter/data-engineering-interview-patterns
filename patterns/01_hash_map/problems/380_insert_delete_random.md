@@ -1,5 +1,7 @@
 # Insert Delete GetRandom O(1) (LeetCode #380)
 
+🔗 [LeetCode 380: Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

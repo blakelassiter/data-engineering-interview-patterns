@@ -1,5 +1,7 @@
 # Valid Anagram (LeetCode #242)
 
+🔗 [LeetCode 242: Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Time Based Key-Value Store (LeetCode #981)
 
+🔗 [LeetCode 981: Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

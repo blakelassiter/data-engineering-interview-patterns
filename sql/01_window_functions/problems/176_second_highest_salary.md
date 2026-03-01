@@ -1,5 +1,7 @@
 # Second Highest Salary (LeetCode #176)
 
+🔗 [LeetCode 176: Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

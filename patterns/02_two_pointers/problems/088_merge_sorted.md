@@ -1,5 +1,7 @@
 # Merge Sorted Array (LeetCode #88)
 
+🔗 [LeetCode 88: Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

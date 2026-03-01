@@ -1,5 +1,7 @@
 # Contains Duplicate II (LeetCode #219)
 
+🔗 [LeetCode 219: Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 ## Problem Statement

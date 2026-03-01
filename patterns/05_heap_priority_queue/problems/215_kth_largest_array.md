@@ -1,5 +1,7 @@
 # Kth Largest Element in an Array (LeetCode #215)
 
+🔗 [LeetCode 215: Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

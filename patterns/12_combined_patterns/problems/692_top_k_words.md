@@ -1,5 +1,7 @@
 # Top K Frequent Words (LeetCode #692)
 
+🔗 [LeetCode 692: Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

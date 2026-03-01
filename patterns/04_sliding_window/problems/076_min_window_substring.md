@@ -1,5 +1,7 @@
 # Minimum Window Substring (LeetCode #76)
 
+🔗 [LeetCode 76: Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Koko Eating Bananas (LeetCode #875)
 
+🔗 [LeetCode 875: Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Common
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Course Schedule II (LeetCode #210)
 
+🔗 [LeetCode 210: Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Common
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Reorganize String (LeetCode #767)
 
+🔗 [LeetCode 767: Reorganize String](https://leetcode.com/problems/reorganize-string/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

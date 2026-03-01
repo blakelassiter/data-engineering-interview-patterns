@@ -232,14 +232,14 @@ Window functions in SQL (`OVER (ORDER BY ... ROWS BETWEEN ...)`) implement the s
 
 | # | Problem | Difficulty | Key Concept |
 |---|---------|------------|-------------|
-| 643 | [Maximum Average Subarray I](problems/643_max_average_subarray.md) | Easy | Fixed window basics |
-| 219 | [Contains Duplicate II](problems/219_contains_duplicate_ii.md) | Easy | Fixed window + hash set |
-| 3 | [Longest Substring Without Repeating](problems/003_longest_substring.md) | Medium | Variable window classic |
-| 424 | [Longest Repeating Character Replacement](problems/424_longest_repeating_char.md) | Medium | Variable window with constraint |
-| 567 | [Permutation in String](problems/567_permutation_in_string.md) | Medium | Fixed window + frequency match |
-| 438 | [Find All Anagrams](problems/438_find_all_anagrams.md) | Medium | Fixed window + frequency match (all positions) |
-| 239 | [Sliding Window Maximum](problems/239_sliding_window_max.md) | Hard | Monotonic deque |
-| 76 | [Minimum Window Substring](problems/076_min_window_substring.md) | Hard | Variable window + frequency tracking |
+| [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](problems/643_max_average_subarray.md) | Easy | Fixed window basics |
+| [219](https://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](problems/219_contains_duplicate_ii.md) | Easy | Fixed window + hash set |
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating](problems/003_longest_substring.md) | Medium | Variable window classic |
+| [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](problems/424_longest_repeating_char.md) | Medium | Variable window with constraint |
+| [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](problems/567_permutation_in_string.md) | Medium | Fixed window + frequency match |
+| [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams](problems/438_find_all_anagrams.md) | Medium | Fixed window + frequency match (all positions) |
+| [239](https://leetcode.com/problems/sliding-window-maximum/) | [Sliding Window Maximum](problems/239_sliding_window_max.md) | Hard | Monotonic deque |
+| [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](problems/076_min_window_substring.md) | Hard | Variable window + frequency tracking |
 
 **Suggested order:** 643 → 219 → 3 → 424 → 567, 438 → 239 → 76
 

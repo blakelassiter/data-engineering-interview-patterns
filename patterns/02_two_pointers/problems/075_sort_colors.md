@@ -1,5 +1,7 @@
 # Sort Colors - Dutch National Flag (LeetCode #75)
 
+🔗 [LeetCode 75: Sort Colors - Dutch National Flag](https://leetcode.com/problems/sort-colors/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

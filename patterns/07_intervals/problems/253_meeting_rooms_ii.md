@@ -1,5 +1,7 @@
 # Meeting Rooms II (LeetCode #253)
 
+🔗 [LeetCode 253: Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Common
 
 *This is a LeetCode Premium problem. The problem description below is written in our own words. If you have LeetCode Premium, the original is at https://leetcode.com/problems/meeting-rooms-ii/.*

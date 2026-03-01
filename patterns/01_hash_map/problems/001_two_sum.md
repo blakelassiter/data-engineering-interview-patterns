@@ -1,5 +1,7 @@
 # Two Sum (LeetCode #1)
 
+🔗 [LeetCode 1: Two Sum](https://leetcode.com/problems/two-sum/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

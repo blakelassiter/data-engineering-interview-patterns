@@ -1,5 +1,7 @@
 # Evaluate Reverse Polish Notation (LeetCode #150)
 
+🔗 [LeetCode 150: Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

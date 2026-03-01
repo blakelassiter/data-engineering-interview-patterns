@@ -178,12 +178,12 @@ Stack operations don't have a direct SQL equivalent because SQL is set-based, no
 
 | # | Problem | Difficulty | Key Concept |
 |---|---|---|---|
-| 20 | [Valid Parentheses](problems/020_valid_parentheses.md) | Easy | Matching brackets with a stack |
-| 155 | [Min Stack](problems/155_min_stack.md) | Medium | O(1) min alongside push/pop |
-| 150 | [Evaluate RPN](problems/150_eval_rpn.md) | Medium | Postfix expression evaluation |
-| 739 | [Daily Temperatures](problems/739_daily_temperatures.md) | Medium | Monotonic decreasing stack |
-| 853 | [Car Fleet](problems/853_car_fleet.md) | Medium | Monotonic stack by arrival time |
-| 84 | [Largest Rectangle](problems/084_largest_rectangle.md) | Hard | Monotonic increasing stack |
+| [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](problems/020_valid_parentheses.md) | Easy | Matching brackets with a stack |
+| [155](https://leetcode.com/problems/min-stack/) | [Min Stack](problems/155_min_stack.md) | Medium | O(1) min alongside push/pop |
+| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate RPN](problems/150_eval_rpn.md) | Medium | Postfix expression evaluation |
+| [739](https://leetcode.com/problems/daily-temperatures/) | [Daily Temperatures](problems/739_daily_temperatures.md) | Medium | Monotonic decreasing stack |
+| [853](https://leetcode.com/problems/car-fleet/) | [Car Fleet](problems/853_car_fleet.md) | Medium | Monotonic stack by arrival time |
+| [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Largest Rectangle](problems/084_largest_rectangle.md) | Hard | Monotonic increasing stack |
 
 ## DE Scenarios
 

@@ -1,5 +1,7 @@
 # Winning Candidate (LeetCode #574)
 
+🔗 [LeetCode 574: Winning Candidate](https://leetcode.com/problems/winning-candidate/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

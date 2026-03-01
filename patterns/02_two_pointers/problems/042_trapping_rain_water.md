@@ -1,5 +1,7 @@
 # Trapping Rain Water (LeetCode #42)
 
+🔗 [LeetCode 42: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

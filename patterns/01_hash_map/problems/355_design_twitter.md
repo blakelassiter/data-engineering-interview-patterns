@@ -1,5 +1,7 @@
 # Design Twitter (LeetCode #355)
 
+🔗 [LeetCode 355: Design Twitter](https://leetcode.com/problems/design-twitter/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Occasional
 
 ## Problem Statement

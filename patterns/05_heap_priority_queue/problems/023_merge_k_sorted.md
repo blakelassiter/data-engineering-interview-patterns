@@ -1,5 +1,7 @@
 # Merge K Sorted Lists (LeetCode #23)
 
+🔗 [LeetCode 23: Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement

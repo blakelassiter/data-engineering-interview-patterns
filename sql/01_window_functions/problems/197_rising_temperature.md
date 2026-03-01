@@ -1,5 +1,7 @@
 # Rising Temperature (LeetCode #197)
 
+🔗 [LeetCode 197: Rising Temperature](https://leetcode.com/problems/rising-temperature/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Very Common
 
 ## Problem Statement

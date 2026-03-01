@@ -1,5 +1,7 @@
 # Consecutive Numbers (LeetCode #180)
 
+🔗 [LeetCode 180: Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

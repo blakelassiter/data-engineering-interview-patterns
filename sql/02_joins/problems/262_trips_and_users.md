@@ -1,5 +1,7 @@
 # Trips and Users (LeetCode #262)
 
+🔗 [LeetCode 262: Trips and Users](https://leetcode.com/problems/trips-and-users/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Common
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Maximum Average Subarray I (LeetCode #643)
 
+🔗 [LeetCode 643: Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+
 > **Difficulty:** Easy | **Interview Frequency:** Occasional
 
 ## Problem Statement

@@ -1,5 +1,7 @@
 # Department Highest Salary (LeetCode #184)
 
+🔗 [LeetCode 184: Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

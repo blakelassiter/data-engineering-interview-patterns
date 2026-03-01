@@ -1,5 +1,7 @@
 # Merge Intervals (LeetCode #56)
 
+🔗 [LeetCode 56: Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
 > **Difficulty:** Medium | **Interview Frequency:** Very Common
 
 ## Problem Statement

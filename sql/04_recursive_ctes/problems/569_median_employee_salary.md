@@ -1,5 +1,7 @@
 # Median Employee Salary (LeetCode #569)
 
+🔗 [LeetCode 569: Median Employee Salary](https://leetcode.com/problems/median-employee-salary/)
+
 > **Difficulty:** Hard | **Interview Frequency:** Occasional
 
 ## Problem Statement
