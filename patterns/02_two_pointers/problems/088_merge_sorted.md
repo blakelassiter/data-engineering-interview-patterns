@@ -85,19 +85,18 @@ Edge case: if p2 runs out but p1 hasn't, we're done. Those nums1 elements were a
 <summary>💻 Code</summary>
 
 ```python
-def merge(nums1: list[int], m: int, nums2: list[int], n: int) -> None:
-    p1, p2, write = m - 1, n - 1, m + n - 1
-    while p1 >= 0 and p2 >= 0:
-        if nums1[p1] >= nums2[p2]:
+def merge_sorted_array(nums1: list[int], m: int, nums2: list[int], n: int) -> None:
+    p1 = m - 1
+    p2 = n - 1
+    write = m + n - 1
+
+    while p2 >= 0:
+        if p1 >= 0 and nums1[p1] > nums2[p2]:
             nums1[write] = nums1[p1]
             p1 -= 1
         else:
             nums1[write] = nums2[p2]
             p2 -= 1
-        write -= 1
-    while p2 >= 0:
-        nums1[write] = nums2[p2]
-        p2 -= 1
         write -= 1
 ```
 

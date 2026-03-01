@@ -8,23 +8,23 @@ Space Complexity: O(1)
 """
 
 
-def search(nums: list[int], target: int) -> int:
+def binary_search(nums: list[int], target: int) -> int:
     """
-    Find target in a sorted array. Return index or -1 if not found.
+    Find target in a sorted array. Returns index or -1 if not found.
 
     Classic exact-match binary search. Left and right pointers
     define the search space. Each step halves it.
 
     Args:
-        nums: Sorted list of distinct integers.
-        target: Value to find.
+        nums: Sorted list of integers
+        target: Value to find
 
     Returns:
-        Index of target, or -1 if not found.
+        Index of target, or -1
 
     Example:
-        >>> search([-1, 0, 3, 5, 9, 12], 9)
-        4
+        >>> binary_search([2, 5, 8, 12, 16, 23, 34, 45, 67, 78], 34)
+        6
     """
     left, right = 0, len(nums) - 1
 
@@ -62,6 +62,6 @@ if __name__ == "__main__":
     ]
 
     for nums, target, expected in test_cases:
-        result = search(nums, target)
+        result = binary_search(nums, target)
         status = "PASS" if result == expected else "FAIL"
-        print(f"{status}: search({nums}, {target}) = {result}")
+        print(f"{status}: binary_search({nums}, {target}) = {result}")

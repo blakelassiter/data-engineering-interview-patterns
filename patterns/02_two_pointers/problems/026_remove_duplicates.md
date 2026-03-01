@@ -96,7 +96,7 @@ def remove_duplicates(nums: list[int]) -> int:
         return 0
     write = 1
     for read in range(1, len(nums)):
-        if nums[read] != nums[read - 1]:
+        if nums[read] != nums[write - 1]:
             nums[write] = nums[read]
             write += 1
     return write
@@ -122,7 +122,7 @@ def remove_duplicates(nums: list[int]) -> int:
 ## Common Pitfalls
 
 1. **Starting read at 0 instead of 1** - Index 0 is always kept; comparing `nums[0]` with `nums[-1]` is wrong
-2. **Comparing read with write instead of read with read-1** - The comparison should be between adjacent read positions in the original array, not between the read and write positions
+2. **Comparing against the previous read position instead of the last written value** - Compare `nums[read]` against `nums[write - 1]` (the last unique value written), not `nums[read - 1]`. For sorted input both produce the same result, but `write - 1` is the correct general pattern
 3. **Returning write instead of the array** - The problem asks for the count, not the array
 
 ---
