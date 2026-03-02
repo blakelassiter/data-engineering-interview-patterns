@@ -101,6 +101,7 @@ def test_no_solution() -> None:
 
 
 def test_benchmark_runs() -> None:
-    results = benchmark(sizes=[100, 1_000])
-    assert len(results) == 2
-    assert results[1]["hash_ms"] < results[1]["brute_ms"]
+    results = benchmark(sizes=[100, 1_000, 10_000])
+    assert len(results) == 3
+    # Only assert timing on the largest size where O(n) vs O(n^2) is unambiguous
+    assert results[2]["hash_ms"] < results[2]["brute_ms"]
